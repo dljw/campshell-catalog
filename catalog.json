@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z",
   "templates": [
     {
       "name": "kanban",
@@ -23,76 +23,59 @@
         "Show me all cards due this week"
       ],
       "installCount": 0,
-      "bundleSize": "240KB"
+      "bundleSize": "35 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/kanban-1.0.0.campshell",
+      "featured": true
     },
     {
-      "name": "todo",
-      "displayName": "To-Do List",
-      "description": "Simple task list with categories, priorities, and completion tracking",
+      "name": "brain-vault",
+      "displayName": "Brain Vault",
+      "description": "A personal knowledge base where every idea is a note — capture daily journals, meeting notes, book reviews, and research in one place",
       "version": "1.0.0",
       "author": { "name": "Campshell Team" },
-      "category": "productivity",
-      "tags": ["productivity", "tasks", "checklist", "personal"],
-      "emoji": "✅",
+      "category": "knowledge",
+      "tags": ["knowledge", "notes", "journal", "research"],
+      "emoji": "📓",
       "capabilities": [
-        "Create and manage tasks with due dates",
-        "Organize tasks by category",
-        "Mark tasks complete and track progress",
-        "Filter by priority and status"
+        "Create and organize notes with tags",
+        "Link notes together for a knowledge graph",
+        "Write in Markdown with live preview",
+        "Search across all your notes"
       ],
       "prompts": [
-        "Add a task: buy groceries, due tomorrow, high priority",
-        "Show me all incomplete tasks due this week",
-        "Mark the groceries task as done"
+        "Create a note about today's meeting with the design team",
+        "Show me all notes tagged with 'project-alpha'",
+        "Link this note to my research on AI trends"
       ],
       "installCount": 0,
-      "bundleSize": "180KB"
+      "bundleSize": "161 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/brain-vault-1.0.0.campshell",
+      "featured": true
     },
     {
-      "name": "crm",
-      "displayName": "Contact CRM",
-      "description": "Track contacts, companies, and interactions for personal or small-team CRM",
+      "name": "seo-tracker",
+      "displayName": "SEO Tracker",
+      "description": "Track keywords, pages, backlinks, competitors, and technical SEO issues",
       "version": "1.0.0",
       "author": { "name": "Campshell Team" },
-      "category": "crm",
-      "tags": ["crm", "contacts", "sales", "relationships", "business"],
-      "emoji": "🤝",
+      "category": "marketing",
+      "tags": ["marketing", "seo", "analytics", "keywords"],
+      "emoji": "🔍",
       "capabilities": [
-        "Store contact details and company information",
-        "Log interactions and meeting notes",
-        "Track deal pipeline stages",
-        "Search and filter contacts by any field"
+        "Track keyword rankings and search volume",
+        "Monitor page performance and indexing",
+        "Log backlinks and referring domains",
+        "Identify and track technical SEO issues"
       ],
       "prompts": [
-        "Add a contact: Jane Smith, CEO at Acme Corp, jane@acme.com",
-        "Log a call with Jane about the Q2 proposal",
-        "Show me all contacts at Acme Corp"
+        "Add keyword 'react tutorial' targeting my blog page",
+        "Show me all pages with SEO issues",
+        "List my top backlinks by domain authority"
       ],
       "installCount": 0,
-      "bundleSize": "220KB"
-    },
-    {
-      "name": "habit-tracker",
-      "displayName": "Habit Tracker",
-      "description": "Build and maintain daily habits with streaks, reminders, and progress visualization",
-      "version": "1.0.0",
-      "author": { "name": "Campshell Team" },
-      "category": "personal",
-      "tags": ["personal", "habits", "health", "goals", "daily"],
-      "emoji": "🔥",
-      "capabilities": [
-        "Define habits with frequency and target goals",
-        "Track daily completions and build streaks",
-        "View progress over time",
-        "Set reminders and motivation prompts"
-      ],
-      "prompts": [
-        "Create a habit: meditate for 10 minutes every morning",
-        "Mark today's meditation as complete",
-        "Show my current streaks for all habits"
-      ],
-      "installCount": 0,
-      "bundleSize": "200KB"
+      "bundleSize": "114 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/seo-tracker-1.0.0.campshell",
+      "featured": true
     }
   ]
 }
