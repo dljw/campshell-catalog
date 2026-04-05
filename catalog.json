@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z",
   "templates": [
     {
       "name": "kanban",
@@ -76,6 +76,150 @@
       "bundleSize": "114 KB",
       "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/seo-tracker-1.0.0.campshell",
       "featured": true
+    },
+    {
+      "name": "budget-tracker",
+      "displayName": "Budget Tracker",
+      "description": "Personal finance tracker — manage accounts, transactions, budgets, and spending categories",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "finance",
+      "tags": ["finance", "budget", "transactions", "money"],
+      "emoji": "💰",
+      "capabilities": [
+        "Track accounts and balances",
+        "Log transactions with categories",
+        "Set and monitor budgets",
+        "Analyze spending patterns"
+      ],
+      "prompts": [
+        "Add a $50 grocery transaction from today",
+        "Show me my spending this month by category",
+        "How much budget do I have left for dining out?"
+      ],
+      "installCount": 0,
+      "bundleSize": "114 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.1/budget-tracker-1.0.0.campshell"
+    },
+    {
+      "name": "social-media",
+      "displayName": "Social Media",
+      "description": "Plan, create, and track social media content across Instagram, TikTok, LinkedIn, YouTube, Facebook, and Lemon8 for multiple businesses",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "marketing",
+      "tags": ["marketing", "social-media", "content", "instagram", "tiktok"],
+      "emoji": "📱",
+      "capabilities": [
+        "Plan and schedule posts across platforms",
+        "Manage content for multiple businesses",
+        "Track analytics and engagement",
+        "Organize ideas and campaigns"
+      ],
+      "prompts": [
+        "Schedule an Instagram post for tomorrow at 9am",
+        "Show me this week's content calendar",
+        "What are my top performing posts this month?"
+      ],
+      "installCount": 0,
+      "bundleSize": "112 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/social-media-1.0.0.campshell"
+    },
+    {
+      "name": "crm",
+      "displayName": "CRM",
+      "description": "Minimalist CRM — track contacts, deals, and activities",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "business",
+      "tags": ["business", "crm", "contacts", "sales"],
+      "emoji": "🤝",
+      "capabilities": [
+        "Manage contacts and companies",
+        "Track deals through pipeline stages",
+        "Log activities and follow-ups",
+        "View deal pipeline overview"
+      ],
+      "prompts": [
+        "Add a new contact: Jane Smith from Acme Corp",
+        "Move the Acme deal to negotiation stage",
+        "Show me all deals closing this month"
+      ],
+      "installCount": 0,
+      "bundleSize": "105 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/crm-1.0.0.campshell"
+    },
+    {
+      "name": "journal",
+      "displayName": "Journal",
+      "description": "A cozy daily journal with mood tracking, gratitude lists, and writing prompts",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "personal",
+      "tags": ["personal", "journal", "mood", "gratitude"],
+      "emoji": "🌸",
+      "capabilities": [
+        "Write daily journal entries",
+        "Track mood and energy levels",
+        "Use writing prompts for inspiration",
+        "Reflect on gratitude and goals"
+      ],
+      "prompts": [
+        "Start today's journal entry",
+        "Show me my mood trends this week",
+        "Give me a writing prompt for reflection"
+      ],
+      "installCount": 0,
+      "bundleSize": "114 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/journal-1.0.0.campshell"
+    },
+    {
+      "name": "content-strategy",
+      "displayName": "Content Strategy",
+      "description": "Plan content, measure GSC performance, optimize with data-driven cycles, and track outcomes",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "marketing",
+      "tags": ["marketing", "content", "seo", "strategy"],
+      "emoji": "📝",
+      "capabilities": [
+        "Plan and track content articles",
+        "Monitor Google Search Console performance",
+        "Run optimization cycles",
+        "Manage content hubs and keywords"
+      ],
+      "prompts": [
+        "Add a new article about React performance tips",
+        "Show me keywords with declining impressions",
+        "Start a new optimization cycle for my blog"
+      ],
+      "installCount": 0,
+      "bundleSize": "272 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/content-strategy-1.0.0.campshell"
+    },
+    {
+      "name": "habit-tracker",
+      "displayName": "Habit Tracker",
+      "description": "Track daily and weekly habits with streaks, heatmaps, and completion insights",
+      "version": "1.0.0",
+      "author": { "name": "campshell" },
+      "category": "productivity",
+      "tags": ["productivity", "habits", "streaks", "wellness"],
+      "emoji": "✅",
+      "capabilities": [
+        "Create and track daily habits",
+        "View streaks and completion rates",
+        "Organize habits by category",
+        "Visualize progress with heatmaps"
+      ],
+      "prompts": [
+        "Add a new habit: meditate for 10 minutes daily",
+        "Show me my current streaks",
+        "Which habits did I miss this week?"
+      ],
+      "installCount": 0,
+      "bundleSize": "114 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.0/habit-tracker-1.0.0.campshell"
     }
   ]
 }
