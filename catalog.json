@@ -105,7 +105,7 @@
       "name": "social-media",
       "displayName": "Social Media",
       "description": "Plan, create, and track social media content across Instagram, TikTok, LinkedIn, YouTube, Facebook, and Lemon8 for multiple businesses",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": { "name": "campshell" },
       "category": "marketing",
       "tags": ["marketing", "social-media", "content", "instagram", "tiktok"],
@@ -122,8 +122,8 @@
         "What are my top performing posts this month?"
       ],
       "installCount": 0,
-      "bundleSize": "112 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/social-media-1.0.0.campshell"
+      "bundleSize": "115 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.4/social-media-1.0.1.campshell"
     },
     {
       "name": "crm",
