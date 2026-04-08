@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T00:00:00Z",
+  "updatedAt": "2026-04-08T00:00:00Z",
   "templates": [
     {
       "name": "kanban",
@@ -24,7 +24,7 @@
       ],
       "installCount": 0,
       "bundleSize": "35 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/kanban-1.0.0.campshell",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/kanban-1.0.0.campshell",
       "featured": true
     },
     {
@@ -49,7 +49,7 @@
       ],
       "installCount": 0,
       "bundleSize": "161 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/brain-vault-1.0.0.campshell",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/brain-vault-1.0.0.campshell",
       "featured": true
     },
     {
@@ -74,7 +74,7 @@
       ],
       "installCount": 0,
       "bundleSize": "114 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/seo-tracker-1.0.0.campshell",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/seo-tracker-1.0.0.campshell",
       "featured": true
     },
     {
@@ -99,7 +99,7 @@
       ],
       "installCount": 0,
       "bundleSize": "114 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/budget-tracker-1.0.0.campshell"
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/budget-tracker-1.0.0.campshell"
     },
     {
       "name": "social-media",
@@ -123,7 +123,7 @@
       ],
       "installCount": 0,
       "bundleSize": "115 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.4/social-media-1.0.1.campshell"
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/social-media-1.0.1.campshell"
     },
     {
       "name": "crm",
@@ -147,7 +147,7 @@
       ],
       "installCount": 0,
       "bundleSize": "105 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/crm-1.0.0.campshell"
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/crm-1.0.0.campshell"
     },
     {
       "name": "journal",
@@ -171,7 +171,7 @@
       ],
       "installCount": 0,
       "bundleSize": "114 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/journal-1.0.0.campshell"
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/journal-1.0.0.campshell"
     },
     {
       "name": "content-strategy",
@@ -195,7 +195,7 @@
       ],
       "installCount": 0,
       "bundleSize": "275 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.3/content-strategy-1.0.1.campshell",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/content-strategy-1.0.1.campshell",
       "featured": true
     },
     {
@@ -220,23 +220,7 @@
       ],
       "installCount": 0,
       "bundleSize": "114 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.2/habit-tracker-1.0.0.campshell"
-    }
-    ,
-    {
-      "name": "budget-tracker",
-      "displayName": "Budget Tracker",
-      "description": "Personal finance tracker — manage accounts, transactions, budgets, and spending categories",
-      "version": "1.0.0",
-      "author": { "name": "campshell" },
-      "category": "finance",
-      "tags": [],
-      "emoji": "💰",
-      "capabilities": [],
-      "prompts": [],
-      "installCount": 0,
-      "bundleSize": "114 KB",
-      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.1/budget-tracker-1.0.0.campshell"
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/habit-tracker-1.0.0.campshell"
     }
   ]
 }
