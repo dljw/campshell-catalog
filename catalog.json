@@ -249,5 +249,35 @@
       "bundleSize": "114 KB",
       "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/habit-tracker-1.0.0.campshell"
     }
+  ],
+  "workflows": [
+    {
+      "name": "seo-content-pipeline",
+      "displayName": "SEO Content Pipeline",
+      "description": "Orchestrate keyword research, content creation, and SEO tracking across Content Strategy, SEO Tracker, and DataForSEO — all through natural language.",
+      "version": "1.0.0",
+      "author": { "name": "Campshell Team" },
+      "category": "marketing",
+      "tags": ["seo", "content", "marketing", "pipeline"],
+      "emoji": "🔄",
+      "requires": ["content-strategy", "seo-tracker", "dataforseo"],
+      "capabilities": [
+        "Research keywords and add them to both templates in one step",
+        "Get a content brief from SERP analysis and create your next article",
+        "Run a full SEO audit across both templates",
+        "Import GSC data and sync keyword positions",
+        "Analyse competitor rankings and find content gaps",
+        "Check brand and content visibility in AI search"
+      ],
+      "prompts": [
+        "Research keywords for SaaS onboarding",
+        "What article should I write next?",
+        "Run an SEO audit",
+        "How do I show up in AI search?"
+      ],
+      "bundleSize": "13 KB",
+      "bundleUrl": "https://github.com/dljw/campshell-templates/releases/download/v1.0.5/seo-content-pipeline-1.0.0.tar.gz",
+      "featured": true
+    }
   ]
 }
